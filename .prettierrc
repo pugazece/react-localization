@@ -10,5 +10,6 @@
   "trailingComma": "es5",
   "semi": false,
   "quoteProps": "preserve",
-  "proseWrap": "preserve"
+  "proseWrap": "preserve",
+  "bracketSpacing": true
 }
