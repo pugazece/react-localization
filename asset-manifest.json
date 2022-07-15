@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-localization/static/js/main.d4845583.js",
+    "index.html": "/react-localization/index.html",
+    "static/media/getFetch.cjs": "/react-localization/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.d4845583.js.map": "/react-localization/static/js/main.d4845583.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d4845583.js"
+  ]
+}
